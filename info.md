@@ -1,8 +1,17 @@
-[![](https://img.shields.io/github/release/rospogrigio/localtuya-homeassistant/all.svg?style=for-the-badge)](https://github.com/rospogrigio/localtuya-homeassistant/releases)
+[![](https://img.shields.io/github/release/1618033/localtuya-fixed/all.svg?style=for-the-badge)](https://github.com/1618033/localtuya-fixed/releases)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-[![](https://img.shields.io/badge/MAINTAINER-%40rospogrigio-green?style=for-the-badge)](https://github.com/rospogrigio)
+[![](https://img.shields.io/badge/MAINTAINER-%401618033-green?style=for-the-badge)](https://github.com/1618033)
 
 ![logo](https://github.com/rospogrigio/localtuya-homeassistant/blob/master/img/logo-small.png)
+
+# About this fork:
+
+Fixes annoyances and critical bugs on the unmantained-as-of-late original localtuya.
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=localtuya-fixed&owner=1618033)
+
+
+# Original README:
 
 A Home Assistant custom Integration for local handling of Tuya-based devices.
 
