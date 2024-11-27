@@ -1,8 +1,8 @@
 {
-  "domain": "localtuya",
-  "name": "LocalTuya integration",
+  "domain": "localtuyafixed",
+  "name": "LocalTuya (Fixed) integration",
   "codeowners": [
-    "@rospogrigio", "@postlund"
+    "@1618033", "@rospogrigio", "@postlund"
   ],
   "config_flow": true,
   "dependencies": [],
@@ -10,5 +10,5 @@
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/rospogrigio/localtuya/issues",
   "requirements": [],
-  "version": "5.2.1"
+  "version": "1.0.1"
 }
