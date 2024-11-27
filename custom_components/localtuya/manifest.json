@@ -1,5 +1,5 @@
 {
-  "domain": "localtuyafixed",
+  "domain": "localtuya",
   "name": "LocalTuya Fixed integration",
   "codeowners": [
     "@1618033", "@rospogrigio", "@postlund"
